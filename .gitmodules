@@ -40,3 +40,6 @@
 [submodule "Zenburn"]
 	path = Zenburn
 	url = https://github.com/jnurmine/Zenburn.git
+[submodule "vim-surround"]
+	path = vim-surround
+	url = git://github.com/tpope/vim-surround.git
