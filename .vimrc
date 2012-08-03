@@ -60,6 +60,8 @@ set shiftwidth=4
 set softtabstop=4
 set tabstop=4
 set expandtab
+set backspace=indent,eol,start
+
 
 runtime autoload/swap.vim
 runtime autoload/showmarks.vim

@@ -40,3 +40,9 @@
 [submodule "Zenburn"]
 	path = Zenburn
 	url = https://github.com/jnurmine/Zenburn.git
+[submodule "vim-less"]
+	path = vim-less
+	url = https://github.com/groenewege/vim-less.git
+[submodule "Muon"]
+	path = Muon
+	url = https://github.com/gregsexton/Muon.git
