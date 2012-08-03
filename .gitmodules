@@ -46,3 +46,6 @@
 [submodule "Muon"]
 	path = Muon
 	url = https://github.com/gregsexton/Muon.git
+[submodule "superman"]
+	path = superman
+	url = https://github.com/tristen/superman.git
