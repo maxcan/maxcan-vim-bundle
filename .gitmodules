@@ -49,3 +49,6 @@
 [submodule "superman"]
 	path = superman
 	url = https://github.com/tristen/superman.git
+[submodule "vim-surround"]
+	path = vim-surround
+	url = git://github.com/tpope/vim-surround.git
