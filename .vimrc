@@ -8,6 +8,7 @@ set statusline=%<%f\ B%n\ %y%h%m%r%=%b\ 0x%B\ \ %l,%c%V\ %P
 set statusline+=%#warningmsg#
 set statusline+=%{SyntasticStatuslineFlag()}
 set statusline+=%*
+set hi=1000
 set showbreak=\ \ \ \ \ \ \ \ 
 set relativenumber
 map <Leader>m :wa\|:make!<CR>
@@ -56,9 +57,9 @@ set ignorecase
 set hlsearch
 set incsearch
 set autowrite
-set shiftwidth=4
-set softtabstop=4
-set tabstop=4
+set shiftwidth=2
+set softtabstop=2
+set tabstop=2
 set expandtab
 set backspace=indent,eol,start
 
